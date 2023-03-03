@@ -1,32 +1,67 @@
 const DUMMY_EVENTS = [
   {
     id: 'e1',
-    title: 'Programming for everyone',
+    title: 'North Durham Networking',
     description:
-      'Everyone can learn to code! Yes, everyone! In this live event, we are going to go through all the key basics and get you started with programming as well.',
-    location: 'Somestreet 25, 12345 San Somewhereo',
-    date: '2021-05-12',
-    image: 'images/coding-event.avif',
+      'North Durham Networking is hosting a new business networking event and we want to see you there!.',
+    location:
+      'Chester-le-Street Golf Club Chester-le-Street Golf Club LUMLEY PARK CHESTER-LE-STREET DH3 4NS',
+    date: '2023-03-08',
+    image: 'images/north-durham-networking.avif',
     isFeatured: false,
   },
   {
     id: 'e2',
-    title: 'Networking for introverts',
+    title: 'Newcastle Service Jam 2023',
     description:
       "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
-    location: 'New Wall Street 5, 98765 New Work',
-    date: '2021-05-30',
-    image: 'images/introvert-event.avif',
+    location:
+      'A 48h storm of post-its, rapid research and prototypes to solve real world problems. The Service Jam is 2 days, in-person &amp; open to anyone.',
+    date: '2023-03-22',
+    image: 'images/newcastle-service-jam.avif',
     isFeatured: true,
   },
   {
     id: 'e3',
-    title: 'Networking for extroverts',
+    title: 'Sunderland Careers Fair',
     description:
-      'You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.',
-    location: 'My Street 12, 10115 Broke City',
-    date: '2022-04-10',
-    image: 'images/extrovert-event.avif',
+      'Looking for a new Career? Looking for your next Hire? The UK Careers Fair returns to Sunderland on Tuesday 18th April.',
+    location: 'Grand Hotel Sunderland Queens Parade Sunderland SR6 8DB',
+    date: '2023-04-18',
+    image: 'images/sunderland.avif',
+    isFeatured: true,
+  },
+  {
+    id: 'e4',
+    title: 'North East Expo - Spring 2023',
+    description:
+      'The North East Expo has become the regions largest one day business event and attracts over 1200 delegates from every kind of business sect.',
+    location:
+      'Newcastle Falcons Newcastle Falcons, Brunton Road Kingston Park Newcastle Upon Tyne NE13 8AF',
+    date: '2023-04-27',
+    image: 'images/north-east-expo.avif',
+    isFeatured: true,
+  },
+  {
+    id: 'e5',
+    title: 'The Marketing Meetup IRL: Newcastle',
+    description:
+      "The Newcastle Marketing Meetup is an informal, friendly place to meet, learn, and share knowledge with one another. Come in 'listen' mode",
+    location:
+      'Tuspark Newcastle Eagle Lab Maybrook House Grainger St Newcastle NE1 5JE',
+    date: '2023-03-07',
+    image: 'images/marketing-northeast.avif',
+    isFeatured: true,
+  },
+  {
+    id: 'e6',
+    title: 'Rise and Design - Design for All',
+    description:
+      "We're all different, so maybe how things are designed needs to take account of this.",
+    location:
+      'Northern Design Centre Abbots Hill, Baltic Business Quarter Baltic Business Quarter Gateshead NE8 3DF',
+    date: '2023-03-10',
+    image: 'images/marketing-northeast.avif',
     isFeatured: true,
   },
 ]
