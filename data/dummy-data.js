@@ -15,8 +15,7 @@ const DUMMY_EVENTS = [
     title: 'Newcastle Service Jam 2023',
     description:
       "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
-    location:
-      'A 48h storm of post-its, rapid research and prototypes to solve real world problems. The Service Jam is 2 days, in-person &amp; open to anyone.',
+    location: 'Home',
     date: '2023-03-22',
     image: 'images/newcastle-service-jam.avif',
     isFeatured: true,
